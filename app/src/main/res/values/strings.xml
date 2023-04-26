@@ -1,0 +1,19 @@
+<resources>
+    <string name="Instructions">This is a basic form template. Feel free to adapt and use for whatever you please.</string>
+    <string name="app_name">RegistrationForm</string>
+    <string name="FirstPartOfFirsttrequest">First Name</string>
+    <string name="FirstInputOfFirsttrequest">Enter your First Name here</string>
+    <string name="SecondPartOfFirsttrequest">Last Name</string>
+    <string name="SecondInputOfFirsttrequest">Enter your Last Name here</string>
+    <string name="GenderPrompt">Gender</string>
+    <string name="GenderField">Enter your Gender here.</string>
+    <string name="IDPrompt">StudentID</string>
+    <string name="IDField">Enter your student ID</string>
+    <string name="DiplomaPrompt">Diploma</string>
+    <string name="DiplomaCodeField">Enter the ID of the course you are currently taking</string>
+    <string name="EmailPrompt">Email</string>
+    <string name="EmailField">Enter your email here</string>
+    <string name="PhoneNumberPrompt">Phone Number</string>
+    <string name="PhoneNumberField">Enter your phone number here</string>
+    <string name="ButtonFunction">Submit</string>
+</resources>
